@@ -137,5 +137,5 @@ src/
 
 ## 🧑‍💻 Built by
 
-**Maria Anto Rabel**  
+**Kiran Gobi Manivannan**  
 Feel free to connect on GitHub or LinkedIn!
